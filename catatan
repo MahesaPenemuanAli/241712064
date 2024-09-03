@@ -1,0 +1,8 @@
+python memiliki type data primiif dan non non primitif
+type data primitif pertama intejer (int) adalah type data yang numerik.
+tipe data string(str) adalaah type data charakter (a sampai z)
+tipe data float(float) mirip dengan intejer tapi bisa mengagunakan bilangan koma
+atau desimal.
+boolean(bool) adalah repesentasi nilai yang nilai true atau false
+tempat menyipan progarm disebut variabel
+gunakan variabel yang mudah
